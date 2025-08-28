@@ -28,3 +28,12 @@ It demonstrates **Object-Oriented Programming (OOPs)** concepts such as:
 5. **Loops** → While loop for menu, For loop for listing records.  
 
 ----
+
+
+---
+
+## 📦 Requirements
+
+- Python 3.7 or higher  
+- Works on Windows, Mac, or Linux  
+- No external libraries needed (uses only built-in Python modules)
